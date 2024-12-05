@@ -24,7 +24,7 @@
 
 ## 4. 프로젝트 내용
 
-발표자료: [PPT]([https://github.com/eunkk01/Business_Analytics/blob/main/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/BA_%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_FINAL.pdf](https://github.com/eunkk01/Business_Analytics/blob/main/%EB%A7%88%EC%BC%93%ED%8C%8C%EC%9D%B8%EB%8D%94_%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/BA%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94_%EB%A7%88%EC%BC%93%ED%8C%8C%EC%9D%B8%EB%8D%94_7%EC%A1%B0.pdf))
+발표자료: [PPT](https://github.com/eunkk01/Business_Analytics/blob/main/%EB%A7%88%EC%BC%93%ED%8C%8C%EC%9D%B8%EB%8D%94_%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/BA%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94_%EB%A7%88%EC%BC%93%ED%8C%8C%EC%9D%B8%EB%8D%94_7%EC%A1%B0.pdf)
 
 <br>
 
