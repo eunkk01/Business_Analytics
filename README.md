@@ -15,5 +15,5 @@
 
 <br>
 
-## 25-2 4학년 1학기
+## 25-1 4학년 1학기
 [[GMSW-미디어네트워크분석]](https://github.com/eunkk01/Business_Analytics/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%B6%84%EC%84%9D) [네트워크분석 연구 계획서](https://github.com/eunkk01/Business_Analytics/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%B6%84%EC%84%9D/GMSW_%EB%AF%B8%EB%94%94%EC%96%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%B6%84%EC%84%9D_%EC%97%B0%EA%B5%AC%EA%B3%84%ED%9A%8D%EC%84%9C.pdf)
